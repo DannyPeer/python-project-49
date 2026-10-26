@@ -1,5 +1,7 @@
+from brain_games.scripts.brain_even import game
 def main():
-    print("Welcome to the Brain Games!")
+    game()
+
 
 if __name__ == "__main__":
     main()
