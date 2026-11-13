@@ -20,9 +20,12 @@ git clone https://github.com/DannyPeer/python-project-49.git
 cd python-project-49
 ```
 
+
 ## Использование
 
 [![asciicast](https://asciinema.org/a/4mFAqIqkqik6Z1By.svg)](https://asciinema.org/a/4mFAqIqkqik6Z1By)
+
+[![asciicast](https://asciinema.org/a/r2bo8E4B4ibDkpfK.svg)](https://asciinema.org/a/r2bo8E4B4ibDkpfK)
 
 ---
 
@@ -32,6 +35,7 @@ cd python-project-49
 Тесты запускаются на каждый коммит. За запуск отвечает файл `.github/workflows/hexlet-check.yml` — не удаляйте и не переименовывайте ни его, ни репозиторий.
 
 </details>
+
 
 ## О Хекслете
 

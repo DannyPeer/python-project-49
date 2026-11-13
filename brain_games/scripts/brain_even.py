@@ -1,42 +1,34 @@
-from brain_games.cli import welcome_user
 import random
-def game():
-    name = welcome_user()
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+from brain_games.scripts.engine import run_game
+DESCRIPTIONS = 'Answer "yes" if the number is even, otherwise answer "no".'
+def generate_round():
+    number = random.randint(1, 100)
 
-    for _ in range(3):
-        number = random.randint(1, 100)
+    if number % 2 == 0:
+        expected_answer = "yes"
+    else:
+        expected_answer = "no"
 
-        if number % 2 == 0:
-            expected_answer = "yes"
-        else:
-            expected_answer = "no"
-    
-        print(f"Question: {number}")
-        answer = input("Your answer: ")
-    
-        if answer == expected_answer:
-            print("Correct!")
-        else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{expected_answer}'.")
-            print(f"Let's try again, {name}")
-            return False
- 
-    print(f"Congratulations, {name}!")
-    return True
+    question = str(number)
+
+    return question, expected_answer
+
+
+
+
+
 
 def main():
-    game()
+    run_game(DESCRIPTIONS, generate_round)
 
 if __name__ == "__main__":
     main()
 
 
 
-    
-        
 
 
-    
 
-    
+
+
+
