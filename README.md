@@ -31,6 +31,8 @@ cd python-project-49
 
 [![asciicast](https://asciinema.org/a/cVGjOE3lQM7sKZqI.svg)](https://asciinema.org/a/cVGjOE3lQM7sKZqI)
 
+[![asciicast](https://asciinema.org/a/f9pepiTFACwKqISj.svg)](https://asciinema.org/a/f9pepiTFACwKqISj)
+
 ---
 
 <details>
