@@ -1,6 +1,9 @@
-from brain_games.scripts.engine import run_game
 import random
+
+from brain_games.scripts.engine import run_game
+
 DESCRIPTIONS = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+
 
 def generate_round():
     number = random.randint(1, 20)
@@ -16,8 +19,10 @@ def generate_round():
     question = str(number)
     return question, expected_answer
 
+
 def main():
     run_game(DESCRIPTIONS, generate_round)
+
 
 if __name__ == "__main__":
     main()

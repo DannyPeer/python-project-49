@@ -1,6 +1,9 @@
-from brain_games.scripts.engine import run_game
 import random
+
+from brain_games.scripts.engine import run_game
+
 DESCRIPTIONS = "Find the greatest common divisor of given numbers."
+
 
 def generate_round():
     number1 = random.randint(1, 100)
@@ -17,13 +20,12 @@ def generate_round():
 
     expected_answer = str(number1)
 
-         
-
     return question, expected_answer
 
 
 def main():
     run_game(DESCRIPTIONS, generate_round)
+
 
 if __name__ == "__main__":
     main()
