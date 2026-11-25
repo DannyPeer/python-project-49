@@ -13,11 +13,11 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
 
 ```bash
 git clone https://github.com/DannyPeer/python-project-49.git
 cd python-project-49
+make install
 ```
 
 

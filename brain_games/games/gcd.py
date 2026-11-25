@@ -9,8 +9,8 @@ def generate_round():
 
     while number2 != 0:
         old_number1 = number1
-        number1 = number2 
-        number2 = old_number1 % number2 
+        number1 = number2
+        number2 = old_number1 % number2
 
     question = f"{first_number} {second_number}"
 

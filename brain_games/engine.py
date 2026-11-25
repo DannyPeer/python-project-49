@@ -23,6 +23,3 @@ def run_game(description, generate_round_data):
             return
 
     print(f"Congratulations, {name}!")
-    
-
-                  
