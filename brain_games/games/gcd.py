@@ -1,4 +1,6 @@
 import random
+
+
 def generate_round():
     number1 = random.randint(1, 100)
     number2 = random.randint(1, 100)
@@ -13,7 +15,5 @@ def generate_round():
     question = f"{first_number} {second_number}"
 
     expected_answer = str(number1)
-
-         
 
     return question, expected_answer

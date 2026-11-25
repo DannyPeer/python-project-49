@@ -23,15 +23,15 @@ cd python-project-49
 
 ## Использование
 
-[![asciicast](https://asciinema.org/a/4mFAqIqkqik6Z1By.svg)](https://asciinema.org/a/4mFAqIqkqik6Z1By)
+[![brain-even](https://asciinema.org/a/7H3TEQ5MqOQd00Xm.svg)](https://asciinema.org/a/7H3TEQ5MqOQd00Xm)
 
-[![asciicast](https://asciinema.org/a/r2bo8E4B4ibDkpfK.svg)](https://asciinema.org/a/r2bo8E4B4ibDkpfK)
+[![brain-calc](https://asciinema.org/a/qAA410uwKfM3BxUH.svg)](https://asciinema.org/a/qAA410uwKfM3BxUH)
 
-[![asciicast](https://asciinema.org/a/Yi3CiEYShBw2iNho.svg)](https://asciinema.org/a/Yi3CiEYShBw2iNho)
+[![brain-gcd](https://asciinema.org/a/6MUcBxUABIXpBWqT.svg)](https://asciinema.org/a/6MUcBxUABIXpBWqT)
 
-[![asciicast](https://asciinema.org/a/cVGjOE3lQM7sKZqI.svg)](https://asciinema.org/a/cVGjOE3lQM7sKZqI)
+[![brain-progression](https://asciinema.org/a/cVGjOE3lQM7sKZqI.svg)](https://asciinema.org/a/cVGjOE3lQM7sKZqI)
 
-[![asciicast](https://asciinema.org/a/f9pepiTFACwKqISj.svg)](https://asciinema.org/a/f9pepiTFACwKqISj)
+[![brain-prime](https://asciinema.org/a/f9pepiTFACwKqISj.svg)](https://asciinema.org/a/f9pepiTFACwKqISj)
 
 ---
 

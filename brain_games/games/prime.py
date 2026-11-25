@@ -1,4 +1,6 @@
 import random
+
+
 def generate_round():
     number = random.randint(1, 20)
     expected_answer = "yes"
