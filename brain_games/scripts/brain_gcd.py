@@ -1,5 +1,5 @@
 from brain_games.games.gcd import generate_round
-from brain_games.scripts.engine import run_game
+from brain_games.engine import run_game
 
 DESCRIPTIONS = "Find the greatest common divisor of given numbers."
 

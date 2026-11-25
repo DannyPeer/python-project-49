@@ -1,5 +1,5 @@
 from brain_games.games.even import generate_round
-from brain_games.scripts.engine import run_game
+from brain_games.engine import run_game
 
 DESCRIPTIONS = 'Answer "yes" if the number is even, otherwise answer "no".'
 

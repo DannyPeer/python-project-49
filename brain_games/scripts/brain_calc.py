@@ -1,5 +1,5 @@
 from brain_games.games.calc import generate_round
-from brain_games.scripts.engine import run_game
+from brain_games.engine import run_game
 
 DESCRIPTIONS = "What is the result of the expression?"
 
